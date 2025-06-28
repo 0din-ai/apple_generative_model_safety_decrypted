@@ -181,7 +181,14 @@ def main() -> None:
         if len(KEY) != 32:
             raise ValueError(f"Expected 32-byte key, got {len(KEY)} bytes")
     except Exception as exc:
-        sys.exit(f"Failed to read key from {args.key_file}: {exc}")
+        # try reading key file as binary if it fails as text
+        try:
+            KEY = args.key_file.read_bytes()
+            assert KEY is not None, "KEY must be set after reading from file" # mypy
+            if len(KEY) != 32:
+                raise ValueError(f"Expected 32-byte key, got {len(KEY)} bytes")
+        except Exception as exc:
+            sys.exit(f"Failed to read key from {args.key_file}: {exc}")
 
     if not args.overrides_root.is_dir():
         sys.exit(f"Overrides root {args.overrides_root} does not exist or is not a directory")
