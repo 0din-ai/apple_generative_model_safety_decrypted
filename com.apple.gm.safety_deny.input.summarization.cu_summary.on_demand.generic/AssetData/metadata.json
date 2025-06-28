@@ -1,0 +1,13 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\ba\\s+conversation\\s+between\\s+a\\s+user\\b",
+    "(?i)\\band\\s+a\\s+helpful\\s+assistant\\b",
+    "(?i)\\bgolliwogg?\\b",
+    "(?i)\\bturn_end\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.MobileAsset.UAF.FM.Overrides</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6</string>
+	<key>CFBundleName</key>
+	<string>com.apple.gm.safety.generativefunctionoverrides</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>MobileAssetProperties</key>
+	<dict>
+		<key>ArchiveDecryptionKeyFile</key>
+		<string>com.apple.MobileAsset.DecryptionKey.UAFFMOverrides.5ea1086.priv</string>
+		<key>AssetSpecifier</key>
+		<string>com.apple.gm.safety.generativefunctionoverrides</string>
+		<key>AssetVersion</key>
+		<string>1.0.0.100.179,0</string>
+		<key>AssetVersionInfo</key>
+		<dict>
+			<key>AssetVersionGroup</key>
+			<integer>0</integer>
+			<key>AssetVersionLong</key>
+			<string>1.0.0.100.179,0</string>
+			<key>AssetVersionTuple</key>
+			<string>1.0.0.100.179</string>
+			<key>BuildVersionTuple</key>
+			<string>100.7.179</string>
+			<key>BundleVersionTuple</key>
+			<string>1.0.0</string>
+		</dict>
+		<key>Build</key>
+		<string>100G179</string>
+		<key>_IsMAAutoAsset</key>
+		<true/>
+		<key>_PreSoftwareUpdateAssetStaging</key>
+		<true/>
+		<key>version</key>
+		<string>1.0.0</string>
+	</dict>
+	<key>_DisableAFSCCompression</key>
+	<true/>
+</dict>
+</plist>

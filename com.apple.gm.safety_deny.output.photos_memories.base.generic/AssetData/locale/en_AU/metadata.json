@@ -1,0 +1,11 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bmale\\b",
+    "(?i)\\bneg(er|ro)s?\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

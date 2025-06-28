@@ -1,0 +1,16 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bbone\\s+in\\s+mouth\\b",
+    "(?i)\\bchinki\\b",
+    "(?i)\\bneg(er|ro)s?\\b",
+    "(?i)\\bspat\\s+in\\s+disgust\\b",
+    "(?i)\\bspit\\s+in\\s+disgust\\b",
+    "(?i)\\bspits\\s+in\\s+disgust\\b",
+    "(?i)\\bspitting\\s+in\\s+disgust\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

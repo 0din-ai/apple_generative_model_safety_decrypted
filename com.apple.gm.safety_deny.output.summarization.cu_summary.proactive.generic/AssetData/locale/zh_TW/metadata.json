@@ -1,0 +1,24 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "\\b\u6b7b\\b",
+    "\u4e27\u751f",
+    "\u53bb\u4e16",
+    "\u540a\u5501",
+    "\u54c0\u60bc",
+    "\u5782\u6b7b",
+    "\u5df2\u6545",
+    "\u60f3\u81ea\u6bba",
+    "\u6b7b\u4ea1",
+    "\u6b7b\u53bb",
+    "\u6b7b\u8005",
+    "\u81ea\u6740",
+    "\u81ea\u6bba",
+    "\u81ea\u76e1",
+    "\u8fc7\u4e16"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

@@ -1,0 +1,31 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\b\ub3d9\ubc18\\s+\uc790\uc0b4\\b",
+    "(?i)\\b\uc0ac\ub9dd\\b",
+    "(?i)\\b\uc0ac\ub9dd\ud558\ub2e4\\b",
+    "(?i)\\b\uc0ac\ub9dd\ud55c\\b",
+    "(?i)\\b\uc0dd\uc744\\s+\ub2ec\ub9ac\ud558\ub2e4\\b",
+    "(?i)\\b\uc228\uc9c0\ub2e4\\b",
+    "(?i)\\b\uc720\uba85\uc744\\s+\ub2ec\ub9ac\ud558\ub2e4\\b",
+    "(?i)\\b\uc790\uc0b4\\b",
+    "(?i)\\b\uc790\uc0b4\\s+\ucd9c\ub3d9\\b",
+    "(?i)\\b\uc790\uc0b4\ud55c\\b",
+    "(?i)\\b\uc790\ud574\\b",
+    "(?i)\\b\uc8fd\ub2e4\\b",
+    "(?i)\\b\uc8fd\uc740\\b",
+    "(?i)\\b\uc8fd\uc74c\\b",
+    "\\b\uace0\uc778\\b",
+    "\\b\uc0ac\ub9dd\\b",
+    "\\b\uc790\uc0b4\\s+\ucda9\ub3d9\\b",
+    "\\b\uc870\uc758\\b",
+    "\\b\uc8fd\uc5b4\\s+\uac00\ub294\\b",
+    "\\b\uc8fd\uc5c8\ub2e4\\b",
+    "\\b\uc8fd\uc740\\b",
+    "\\b\uc8fd\uc74c\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

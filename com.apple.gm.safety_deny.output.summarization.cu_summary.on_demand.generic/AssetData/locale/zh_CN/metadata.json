@@ -1,0 +1,17 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "\u4e27\u751f",
+    "\u53bb\u4e16",
+    "\u540a\u5501",
+    "\u5782\u6b7b",
+    "\u5df2\u6545",
+    "\u6b7b\u4ea1",
+    "\u81ea\u6740",
+    "\u8fc7\u4e16"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

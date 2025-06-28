@@ -1,0 +1,12 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bet\\s+un\\s+assistant\\s+utile\\b",
+    "(?i)\\bfin_du_tour\\b",
+    "(?i)\\bune\\s+conversation\\s+entre\\s+un\\s+utilisateur\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

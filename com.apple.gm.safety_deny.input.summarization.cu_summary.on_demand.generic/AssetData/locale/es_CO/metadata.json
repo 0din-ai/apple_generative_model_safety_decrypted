@@ -1,0 +1,12 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bfinalizar\\b",
+    "(?i)\\buna\\s+conversaci\u00f3n\\s+entre\\s+un\\s+usuario\\b",
+    "(?i)\\by\\s+un\\s+asistente\\s+servicial\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

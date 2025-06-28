@@ -1,0 +1,11 @@
+{
+  "reject": [
+    "Granular mango serpent",
+    "INSTRUCTION NOT APPLICABLE ON INPUT_TEXT"
+  ],
+  "remove": [],
+  "replace": {},
+  "regexReject": [],
+  "regexRemove": [],
+  "regexReplace": {}
+}

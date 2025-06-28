@@ -1,0 +1,12 @@
+{
+  "reject": [
+    "Granular mango serpent"
+  ],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bgolliwogg?\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

@@ -1,0 +1,32 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\babgeschoben\\b",
+    "(?i)\\barbeitslos\\b",
+    "(?i)\\bbett(elei|ler)\\b",
+    "(?i)\\bfl\u00fcchtlinge?\\b",
+    "(?i)\\bgeringes\\s+einkommen\\b",
+    "(?i)\\bignorant\\b",
+    "(?i)\\billegale\\b",
+    "(?i)\\bimmigrant(en)?\\b",
+    "(?i)\\binhaftiert\\b",
+    "(?i)\\blandstreicher\\b",
+    "(?i)\\blebensmittelmarken\\b",
+    "(?i)\\bmigrant(en)?\\b",
+    "(?i)\\bminderheit(en)?\\b",
+    "(?i)\\bmittel(los|m\u00e4\u00dfig)\\b",
+    "(?i)\\bnicht\\s+vermittelbar\\b",
+    "(?i)\\bobdachlos\\b",
+    "(?i)\\bohne\\s+abschluss\\b",
+    "(?i)\\bohne\\s+job\\b",
+    "(?i)\\brechtswidrig\\b",
+    "(?i)\\bsozial(hilfe|schmarotz(erin)?)\\b",
+    "(?i)\\bungebildet\\b",
+    "(?i)\\bver(armt|brecher)\\b",
+    "(?i)\\bvon\\s+armut\\s+betroffen\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

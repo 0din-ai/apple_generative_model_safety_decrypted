@@ -1,0 +1,19 @@
+{
+  "reject": [
+    "Granular mango serpent"
+  ],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bbiden\\b",
+    "(?i)\\bdemocrat\\b",
+    "(?i)\\bharris\\b",
+    "(?i)\\bkamala\\b",
+    "(?i)\\brepublican\\b",
+    "(?i)\\btrump\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {
+    "(?i)\\bELI5\\b": "Explain like I'm five"
+  }
+}

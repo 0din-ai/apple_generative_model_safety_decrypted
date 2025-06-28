@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.MobileAsset.UAF.FM.Overrides</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6</string>
+	<key>CFBundleName</key>
+	<string>com.apple.fm.overrides.uaf.metadata</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4.38.3</string>
+	<key>CFBundleVersion</key>
+	<string>4.38.3</string>
+	<key>MobileAssetProperties</key>
+	<dict>
+		<key>AssetSpecifier</key>
+		<string>com.apple.fm.overrides.uaf.metadata</string>
+		<key>AssetVersion</key>
+		<string>4.38.3.100.1128,0</string>
+		<key>AssetVersionInfo</key>
+		<dict>
+			<key>AssetVersionGroup</key>
+			<integer>0</integer>
+			<key>AssetVersionLong</key>
+			<string>4.38.3.100.1128,0</string>
+			<key>AssetVersionTuple</key>
+			<string>4.38.3.100.1128</string>
+			<key>BuildVersionTuple</key>
+			<string>100.7.1128</string>
+			<key>BundleVersionTuple</key>
+			<string>4.38.3</string>
+		</dict>
+		<key>Build</key>
+		<string>100G1128</string>
+		<key>_IsMAAutoAsset</key>
+		<true/>
+		<key>_PreSoftwareUpdateAssetStaging</key>
+		<true/>
+		<key>_maxOs</key>
+		<string>26.0.9999</string>
+		<key>_minOs</key>
+		<string>26.0</string>
+		<key>version</key>
+		<string>4.38.3</string>
+	</dict>
+	<key>_DisableAFSCCompression</key>
+	<true/>
+</dict>
+</plist>

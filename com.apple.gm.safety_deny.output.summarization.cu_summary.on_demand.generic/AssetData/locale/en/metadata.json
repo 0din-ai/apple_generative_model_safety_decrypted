@@ -1,0 +1,10 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bdies?\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

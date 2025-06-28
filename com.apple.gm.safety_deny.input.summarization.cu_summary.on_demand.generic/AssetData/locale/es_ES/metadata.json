@@ -1,0 +1,12 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bfin_turno\\b",
+    "(?i)\\buna\\s+conversaci\u00f3n\\s+entre\\s+un\\s+usuario\\b",
+    "(?i)\\by\\s+un\\s+asistente\\s+\u00fatil\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

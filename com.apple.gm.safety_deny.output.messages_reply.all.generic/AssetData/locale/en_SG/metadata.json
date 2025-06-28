@@ -1,0 +1,27 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bBoyanese\\b",
+    "(?i)\\bCantonese\\b",
+    "(?i)\\bChinese\\b",
+    "(?i)\\bFoochow\\b",
+    "(?i)\\bHainanese\\b",
+    "(?i)\\bHakka\\b",
+    "(?i)\\bHenghua\\b",
+    "(?i)\\bHindi\\b",
+    "(?i)\\bHockchia\\b",
+    "(?i)\\bHokkien\\b",
+    "(?i)\\bJavanese\\b",
+    "(?i)\\bMalay\\b",
+    "(?i)\\bMalayali\\b",
+    "(?i)\\bMalays\\b",
+    "(?i)\\bShanghainese\\b",
+    "(?i)\\bSikh\\b",
+    "(?i)\\bTamil\\b",
+    "(?i)\\bTeochew\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

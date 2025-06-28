@@ -1,0 +1,43 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\b(decease|deceases|deceased|deceasing)\\b",
+    "(?i)\\b(died|dying|death|dead)\\b",
+    "(?i)\\b(kill|kills|killed|killing|killer|killers|execute|executes|executed|executing|execution|executioner|executioners|slay|slays|slayed|slaying|slayer|slayers|shoot|Shoots|shot|shooted|shooting|shooter|shooters|bomb|bombs|bombed|bombing|bomber|bombers|carnage|carnages|carnaged|carnaging|carnager|carnagers|exterminate|exterminates|exterminated|exterminating|extermination|exterminator|exterminators|annihilate|annihilates|annihilated|annihilating|annihilation|annihilator|annihilators|slaughter|slaughters|slaughtered|slaughtering|slaughterer|slaughterers|maim|maims|maimed|maiming|maimer|maimers|genocide|genocides|genocided|genocidal|genociding|genocider|genociders|murder|murders|murdered|murdering|murderer|murderers|massacre|massacres|massacred|Massacring|massacrer|massacrers|perish|perishes|perished|perishing|croak|croaks|croaked|croaking|rest\\s+in\\s+peace)\\b",
+    "(?i)\\b(lose|loses|lost|losing)\\s+(our|her|his|their|your|my)\\s+(life|lives)\\b",
+    "(?i)\\b(off|offs|offed|offing|hang|hangs|hanged|hung|hanging|cut|cuted|cuts|cutting)\\s+(myself|themself|themselves|oneself|me|himself|herself|yourself)\\b",
+    "(?i)\\b(pass|passes|passed|passing)\\s+(away|on)\\b",
+    "(?i)\\b(suicide|suicides|suicided|suiciding|suicidal)\\b",
+    "(?i)\\b(took|take|takes|taken|taking)\\s+(our|her|his|their|your|my)\\s+(life|lives)\\b",
+    "(?i)\\b(took|take|takes|taken|taking)\\s+(our|her|his|their|your|my)\\s+own\\s+(life|lives)\\b",
+    "(?i)\\bcondolences\\b",
+    "(\u593a\u8d70|\u593a\u53bb|\u7ed3\u675f|\u7ec8\u6b62|\u7ec8\u7ed3|\u5e26\u8d70|\u53d6\u8d70|\u4e86\u65ad|\u4e86\u7ed3|\u653e\u5f03)(\u5979|\u4ed6|\u5979\u4eec|\u4ed6\u4eec|\u5176|\u4f60|\u6211)(\u81ea\u5df1\u7684|\u81ea\u8eab\u7684)(\u751f\u547d|\u6027\u547d)",
+    "(\u593a\u8d70|\u593a\u53bb|\u7ed3\u675f|\u7ec8\u6b62|\u7ec8\u7ed3|\u5e26\u8d70|\u53d6\u8d70|\u4e86\u65ad|\u4e86\u7ed3|\u653e\u5f03)(\u5979\u7684|\u4ed6\u7684|\u5979\u4eec\u7684|\u4ed6\u4eec\u7684|\u5176|\u4f60\u7684|\u6211\u7684)(\u751f\u547d|\u6027\u547d)",
+    "(\u81ea)(\u6740|\u5c3d|\u520e|\u6215|\u88c1|\u6211\u4e86\u7ed3|\u884c\u4e86\u7ed3|\u6211\u4e86\u65ad|\u884c\u4e86\u65ad|\u7f22|\u6b8b|\u8650)"
+  ],
+  "regexRemove": [],
+  "regexReplace": {
+    "(?i)\\bairpods\\b": "AirPods",
+    "(?i)\\bairtag\\b": "AirTag",
+    "(?i)\\bairtags\\b": "AirTags",
+    "(?i)\\bearpods\\b": "EarPods",
+    "(?i)\\bhomepod\\b": "HomePod",
+    "(?i)\\bhomepods\\b": "HomePods",
+    "(?i)\\bicloud\\b": "iCloud",
+    "(?i)\\bimac\\b": "iMac",
+    "(?i)\\bimacs\\b": "iMacs",
+    "(?i)\\bimessage\\b": "iMessage",
+    "(?i)\\bios\\b": "iOS",
+    "(?i)\\bipad\\b": "iPad",
+    "(?i)\\bipads\\b": "iPads",
+    "(?i)\\biphone\\b": "iPhone",
+    "(?i)\\biphones\\b": "iPhones",
+    "(?i)\\bitunes\\b": "iTunes",
+    "(?i)\\bmacos\\b": "macOS",
+    "(?i)\\btvos\\b": "tvOS",
+    "(?i)\\bvisionos\\b": "visionOS",
+    "(?i)\\bwatchos\\b": "watchOS"
+  }
+}
