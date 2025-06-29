@@ -340,6 +340,7 @@
     "(?i)\\bgscht\u00f6rt\\b",
     "(?i)\\bgut\\s+proportionierte\\s+K\u00f6rper\\b",
     "(?i)\\bhaut\\s+mit\\s+melanin\\b",
+    "(?i)\\bimpotent\\b",
     "(?i)\\binkompetent\\b",
     "(?i)\\bkr\u00e4ftiger\\s+K\u00f6rper\\b",
     "(?i)\\bkurvige\\s+K\u00f6rper\\b",

@@ -182,6 +182,7 @@
     "(?i)\\bLibya\\b",
     "(?i)\\bLiechtenstein\\b",
     "(?i)\\bLitva\\b",
+    "(?i)\\bLi\u1ec7t\\s+d\u01b0\u01a1ng\\b",
     "(?i)\\bLlama\\s+AI\\b",
     "(?i)\\bLogo\\s+cho\\s+c\u00e1\\s+nh\u00e2n\\s+da\\s+\u0111en\\b",
     "(?i)\\bLogo\\s+cho\\s+c\u00e1c\\s+d\u00e2n\\s+t\u1ed9c\\s+da\\s+\u0111en\\b",

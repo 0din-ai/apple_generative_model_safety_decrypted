@@ -20,7 +20,8 @@
     "(?i)\\bShanghainese\\b",
     "(?i)\\bSikh\\b",
     "(?i)\\bTamil\\b",
-    "(?i)\\bTeochew\\b"
+    "(?i)\\bTeochew\\b",
+    "(?i)\\bnegros?\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

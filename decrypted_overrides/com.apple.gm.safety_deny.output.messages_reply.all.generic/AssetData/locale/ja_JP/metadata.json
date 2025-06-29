@@ -4,6 +4,7 @@
   "replace": {},
   "regexReject": [
     "(?i)\\bUSA\\b",
+    "(?i)\\bnegros?\\b",
     "(?i)\\b\u30a2\u30a4\u30cc\u4eba\\b",
     "(?i)\\b\u30a2\u30a4\u30cc\u6c11\u65cf\\b",
     "(?i)\\b\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\\b",

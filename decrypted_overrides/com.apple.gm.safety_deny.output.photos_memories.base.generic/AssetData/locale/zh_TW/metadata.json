@@ -3,6 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
+    "(?i)\\b\u667a\u969c\\b",
     "Z\u4e16\u4ee3\u5e74\u8f15\u4eba",
     "\u4e0d\u53cb\u5584\u7684",
     "\u4e0d\u53ef\u4fe1\u8cf4\u7684",

@@ -390,6 +390,7 @@
     "(?i)\\bm\u00e9thodistes\\b",
     "(?i)\\bm\u00e9tis\\b",
     "(?i)\\bnation\\s+mohawk\\b",
+    "(?i)\\bnegros?\\b",
     "(?i)\\bobservation\\s+stricte\\s+du\\s+sabbat\\b",
     "(?i)\\boji\\-cri\\b",
     "(?i)\\bojibwa\\b",

@@ -3,6 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
+    "(?i)\\bnegros?\\b",
     "(?i)\\b\u4ed6\\b",
     "(?i)\\b\u4ed6\u5011\\b",
     "(?i)\\b\u4ed6\u5011\u7684\\b",

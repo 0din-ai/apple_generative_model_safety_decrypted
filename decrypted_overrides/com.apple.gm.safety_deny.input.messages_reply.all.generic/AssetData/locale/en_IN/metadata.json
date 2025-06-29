@@ -168,7 +168,8 @@
     "(?i)\\bUzbeks\\b",
     "(?i)\\bWarli\\b",
     "(?i)\\bWestern\\-India\\s+Region\\b",
-    "(?i)\\bZanj\\b"
+    "(?i)\\bZanj\\b",
+    "(?i)\\bnegros?\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

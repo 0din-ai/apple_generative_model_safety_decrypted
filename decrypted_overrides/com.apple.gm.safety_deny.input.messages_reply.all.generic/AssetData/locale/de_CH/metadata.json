@@ -413,6 +413,7 @@
     "(?i)\\bj\u00fcdisch\\b",
     "(?i)\\bmoslemisch\\b",
     "(?i)\\bm\u00f6nchisch\\b",
+    "(?i)\\bnegros?\\b",
     "(?i)\\bschwarze:r\\s+Amerikaner\\b",
     "(?i)\\bschwarze:r\\s+Amerikanerin\\b",
     "(?i)\\bschwarze:r\\s+Jungendliche\\b",

@@ -338,7 +338,7 @@
     "(?i)\\bmusulmanes\\b",
     "(?i)\\bmusulm\u00e1n\\b",
     "(?i)\\bnegratas\\b",
-    "(?i)\\bnegros\\b",
+    "(?i)\\bnegros?\\b",
     "(?i)\\bni\u00f1a\\s+blanca\\b",
     "(?i)\\bni\u00f1a\\s+negra\\b",
     "(?i)\\bni\u00f1as\\s+blancas\\b",

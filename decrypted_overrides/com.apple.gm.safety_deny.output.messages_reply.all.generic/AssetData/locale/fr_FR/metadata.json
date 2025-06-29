@@ -380,6 +380,7 @@
     "(?i)\\bm\u00e9thodisme\\b",
     "(?i)\\bm\u00e9thodiste\\b",
     "(?i)\\bm\u00e9thodistes\\b",
+    "(?i)\\bnegros?\\b",
     "(?i)\\bnoir\\s+am\u00e9ricain\\b",
     "(?i)\\bnoirs\\s+am\u00e9ricains\\b",
     "(?i)\\bpaganisme\\b",

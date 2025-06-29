@@ -3,6 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
+    "(?i)\\bnegros?\\b",
     "\u4e00\u4f4d\u8bba\u6d3e",
     "\u4e00\u4f4d\u8bba\u6d3e\u6559\u5f92",
     "\u4e00\u795e\u8bba",

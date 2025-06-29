@@ -1,0 +1,10 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bkankerdag\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

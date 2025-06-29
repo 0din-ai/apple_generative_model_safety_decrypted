@@ -292,6 +292,7 @@
     "(?i)\\bfr\u00f8ken\\b",
     "(?i)\\bfr\u00f8kens\\b",
     "(?i)\\bfr\u00f8kner\\b",
+    "(?i)\\bful\\b",
     "(?i)\\bfysisk\\s+funktionsneds\u00e6ttelse\\b",
     "(?i)\\bfysisk\\s+handicap\\b",
     "(?i)\\bfysisk\\s+handicappet\\b",
