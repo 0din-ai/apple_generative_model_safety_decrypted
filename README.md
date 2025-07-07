@@ -1,6 +1,8 @@
 # apple_generative_model_safety_decrypted
 Decrypted Generative Model safety files for Apple Intelligence containing filters
 
+If you are curious about my process of figuring this stuff out, take a peek inside HOW.md
+
 ## Structure
 - `decrypted_overrides/`: Contains decrypted overrides for various models.
   - `com.apple.*/`: Directory named using the Asset Specifier assosciated with the safety info
