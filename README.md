@@ -6,8 +6,13 @@ Decrypted Generative Model safety files for Apple Intelligence containing filter
   - `com.apple.*/`: Directory named using the Asset Specifier assosciated with the safety info
     - `Info.plist`: Contains metadata for the override
     - `AssetData/`: Contains the decrypted JSON files
+- `combined_metadata/`: Contains combined and deduplicated metadata files for convenient review
+  - `global_metadata.json`: Combined global safety filters from all models
+  - `region_*.json`: Combined region-specific safety filters (e.g., `region_CN_metadata.json`)
+  - `locale_*.json`: Combined locale-specific safety filters (e.g., `locale_en_US_metadata.json`)
 - `get_key_lldb.py`: Script to get the encryption key (see usage info below)
 - `decrypt_overrides.py`: Script to decrypt the overrides (see usage info below)
+- `combine_metadata.py`: Script to combine and deduplicate metadata files by region/locale
 
 ## Usage
 
@@ -53,6 +58,25 @@ python decrypt_overrides.py /System/Library/AssetsV2/com_apple_MobileAsset_UAF_F
 ```
 
 The `decrypted_overrides` directory will be created if it does not exist, and the decrypted overrides will be placed in it. This is only necessary if the overrides have been updated, there is already a decrypted version of the overrides in this repository that is up to date as of June 28, 2025.
+
+### Combining metadata files
+
+After decrypting the overrides, you can run the `combine_metadata.py` script to generate combined and deduplicated metadata files:
+
+```bash
+python3 combine_metadata.py
+```
+
+This script will:
+- Process all `metadata.json` files in the `decrypted_overrides` directory
+- Combine them by region/locale and create a global combined file
+- Deduplicate all entries to provide clean, consolidated lists
+- Save the results to the `combined_metadata/` directory
+
+The combined metadata files provide the most convenient way to review all safety filters, as they eliminate duplicate entries and group related filters together. These files are particularly useful for:
+- Understanding what content is filtered globally vs. by region/locale
+- Analyzing the scope and nature of safety filters across different contexts
+- Reviewing the complete set of safety rules without having to examine hundreds of individual files
 
 ## Understanding the overrides
 The overrides are JSON files that contain safety filters for various generative models. Each override is associated with a specific model context (from what I can tell) and contains rules that determine how the model should behave in certain situations, such as filtering out harmful content or ensuring compliance with safety standards.
