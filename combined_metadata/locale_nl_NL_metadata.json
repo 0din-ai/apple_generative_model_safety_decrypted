@@ -1847,6 +1847,8 @@
     "(?i)\\bkaffer\\b",
     "(?i)\\bkaffers\\b",
     "(?i)\\bkankerdag\\b",
+    "(?i)\\bkankerhomootjes?\\b",
+    "(?i)\\bkankerhomos?\\b",
     "(?i)\\bkapitalist\\b",
     "(?i)\\bkapitalisten\\b",
     "(?i)\\bkapitalistisch\\b",

@@ -439,6 +439,7 @@
     "(?i)\\bamiga\\s+de\\s+bichas\\b",
     "(?i)\\bamigas\\s+de\\s+bichas\\b",
     "(?i)\\bamásio\\b",
+    "(?i)\\bandarilh(?:o|a)s?\\b",
     "(?i)\\bandrógino\\b",
     "(?i)\\bansioso\\b",
     "(?i)\\bantinordestino\\b",

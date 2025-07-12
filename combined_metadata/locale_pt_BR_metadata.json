@@ -453,6 +453,7 @@
     "(?i)\\bameríndia\\b",
     "(?i)\\bameríndio\\b",
     "(?i)\\bamásio\\b",
+    "(?i)\\bandarilh(?:o|a)s?\\b",
     "(?i)\\bandrógino\\b",
     "(?i)\\bansioso\\b",
     "(?i)\\banta\\b",
