@@ -229,6 +229,7 @@
     "(?i)\\bamer\u00edndia\\b",
     "(?i)\\bamer\u00edndio\\b",
     "(?i)\\bam\u00e1sio\\b",
+    "(?i)\\bandarilh(?:o|a)s?\\b",
     "(?i)\\banta\\b",
     "(?i)\\banti\\-hindu\u00edsmo\\b",
     "(?i)\\bantinordestino\\b",

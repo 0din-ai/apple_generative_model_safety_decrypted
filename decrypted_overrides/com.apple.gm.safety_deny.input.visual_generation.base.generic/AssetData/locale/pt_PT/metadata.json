@@ -226,6 +226,7 @@
     "(?i)\\bamiga\\s+de\\s+bichas\\b",
     "(?i)\\bamigas\\s+de\\s+bichas\\b",
     "(?i)\\bam\u00e1sio\\b",
+    "(?i)\\bandarilh(?:o|a)s?\\b",
     "(?i)\\bantinordestino\\b",
     "(?i)\\bapaneleirado\\b",
     "(?i)\\bapaneleirados\\b",

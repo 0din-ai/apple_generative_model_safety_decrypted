@@ -293,6 +293,7 @@
     "(?i)\\bpetite\\s+bod(y|ies)\\b",
     "(?i)\\bpickaninn(?:ie|y)s?\\b",
     "(?i)\\bpoofter\\b",
+    "(?i)\\bporch(?:\\s+|-)monkeys?\\b",
     "(?i)\\bporch\\s+monkeys?\\b",
     "(?i)\\bracism\\b",
     "(?i)\\bracist\\b",
