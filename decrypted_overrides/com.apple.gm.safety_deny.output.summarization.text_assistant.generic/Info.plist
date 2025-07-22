@@ -17,26 +17,30 @@
 		<key>AssetSpecifier</key>
 		<string>com.apple.gm.safety_deny.output.summarization.text_assistant.generic</string>
 		<key>AssetVersion</key>
-		<string>32025010.20250529.212443.100.1166,0</string>
+		<string>32025010.20250529.212443.100.1380,0</string>
 		<key>AssetVersionInfo</key>
 		<dict>
 			<key>AssetVersionGroup</key>
 			<integer>0</integer>
 			<key>AssetVersionLong</key>
-			<string>32025010.20250529.212443.100.1166,0</string>
+			<string>32025010.20250529.212443.100.1380,0</string>
 			<key>AssetVersionTuple</key>
-			<string>32025010.20250529.212443.100.1166</string>
+			<string>32025010.20250529.212443.100.1380</string>
 			<key>BuildVersionTuple</key>
-			<string>100.7.1166</string>
+			<string>100.7.1380</string>
 			<key>BundleVersionTuple</key>
 			<string>32025010.20250529.212443</string>
 		</dict>
 		<key>Build</key>
-		<string>100G1166</string>
+		<string>100G1380</string>
+		<key>_DownloadPolicy</key>
+		<integer>900</integer>
 		<key>_IsMAAutoAsset</key>
 		<true/>
 		<key>_PreSoftwareUpdateAssetStaging</key>
 		<true/>
+		<key>_RetentionPolicy</key>
+		<integer>900</integer>
 		<key>version</key>
 		<string>32025010.20250529.212443</string>
 	</dict>
