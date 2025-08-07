@@ -5,7 +5,7 @@
   "regexReject": [
     "(?i)\\bAlexander\\s+De\\s+Croo\\b",
     "(?i)\\bBart\\s+De\\s+Wever\\b",
-    "(?i)\\bBoudewijn\\s+van\\s+Belgi\u00eb\\b",
+    "(?i)\\bBoudewijn\\s+van\\s+België\\b",
     "(?i)\\bCharles\\s+Michel\\b",
     "(?i)\\bafro\\-amerikaan\\b",
     "(?i)\\bafro\\-amerikanen\\b",

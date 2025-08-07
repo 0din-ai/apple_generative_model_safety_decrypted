@@ -11,8 +11,8 @@
     "(?i)\\baper\\b": "[sensitive_scene:animal]",
     "(?i)\\bbavian\\b": "[sensitive_scene:animal]",
     "(?i)\\bbavianer\\b": "[sensitive_scene:animal]",
-    "(?i)\\bbj\u00f8rn\\b": "[sensitive_scene:animal]",
-    "(?i)\\bbj\u00f8rner\\b": "[sensitive_scene:animal]",
+    "(?i)\\bbjørn\\b": "[sensitive_scene:animal]",
+    "(?i)\\bbjørner\\b": "[sensitive_scene:animal]",
     "(?i)\\bbonobo\\b": "[sensitive_scene:animal]",
     "(?i)\\bbonoboer\\b": "[sensitive_scene:animal]",
     "(?i)\\bdinosaur\\b": "[sensitive_scene:animal]",
@@ -34,7 +34,7 @@
     "(?i)\\bgriser\\b": "[sensitive_scene:animal]",
     "(?i)\\bgrisunge\\b": "[sensitive_scene:animal]",
     "(?i)\\bgrisunger\\b": "[sensitive_scene:animal]",
-    "(?i)\\bhoppef\u00f8ll\\b": "[sensitive_scene:animal]",
+    "(?i)\\bhoppeføll\\b": "[sensitive_scene:animal]",
     "(?i)\\bhval\\b": "[sensitive_scene:animal]",
     "(?i)\\bhvaler\\b": "[sensitive_scene:animal]",
     "(?i)\\bkanin\\b": "[sensitive_scene:animal]",
@@ -65,9 +65,9 @@
     "(?i)\\bsjiraffer\\b": "[sensitive_scene:animal]",
     "(?i)\\bskilpadde\\b": "[sensitive_scene:animal]",
     "(?i)\\bskilpadder\\b": "[sensitive_scene:animal]",
-    "(?i)\\bsm\u00e5gris\\b": "[sensitive_scene:animal]",
-    "(?i)\\bsm\u00e5griser\\b": "[sensitive_scene:animal]",
+    "(?i)\\bsmågris\\b": "[sensitive_scene:animal]",
+    "(?i)\\bsmågriser\\b": "[sensitive_scene:animal]",
     "(?i)\\bsvin\\b": "[sensitive_scene:animal]",
-    "(?i)\\bsvinekj\u00f8tt\\b": "[sensitive_scene:animal]"
+    "(?i)\\bsvinekjøtt\\b": "[sensitive_scene:animal]"
   }
 }

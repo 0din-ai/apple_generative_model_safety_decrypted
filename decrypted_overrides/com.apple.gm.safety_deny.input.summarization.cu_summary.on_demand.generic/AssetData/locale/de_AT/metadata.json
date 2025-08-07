@@ -5,7 +5,7 @@
   "regexReject": [
     "(?i)\\bEine\\s+Unterhaltung\\s+zwischen\\s+einem:einer\\s+Benutzer\\b",
     "(?i)\\bEine\\s+Unterhaltung\\s+zwischen\\s+einem:einer\\s+Benutzerin\\b",
-    "(?i)\\bGespr\u00e4chsabschnitt_Ende\\b",
+    "(?i)\\bGesprächsabschnitt_Ende\\b",
     "(?i)\\bund\\s+eine\\s+hilfreiche\\s+Assistenz\\b"
   ],
   "regexRemove": [],

@@ -5,7 +5,6 @@
   "regexReject": [
     "(?i)\\bBoyanese\\b",
     "(?i)\\bCantonese\\b",
-    "(?i)\\bChinese\\b",
     "(?i)\\bFoochow\\b",
     "(?i)\\bHainanese\\b",
     "(?i)\\bHakka\\b",
@@ -18,7 +17,6 @@
     "(?i)\\bMalayali\\b",
     "(?i)\\bMalays\\b",
     "(?i)\\bShanghainese\\b",
-    "(?i)\\bSikh\\b",
     "(?i)\\bTamil\\b",
     "(?i)\\bTeochew\\b",
     "(?i)\\bnegros?\\b"

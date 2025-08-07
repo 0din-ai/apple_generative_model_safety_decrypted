@@ -81,14 +81,9 @@
     "(?i)\\bdinosaurs\\b": "[sensitive_scene:animal]",
     "(?i)\\bfillies\\b": "[sensitive_scene:animal]",
     "(?i)\\bfilly\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacacos\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacacos\\-pregos\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacaco\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacaco\\-prego\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacaca\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacaca\\-prego\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacacas\\-prego\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacacas\\-pregos\\b": "[sensitive_scene:animal]",
-    "(?i)\\bmacacas\\b": "[sensitive_scene:animal]"
+    "(?i)\\bmacacos?\\b": "[sensitive_scene:animal]",
+    "(?i)\\bmacacos?\\-pregos?\\b": "[sensitive_scene:animal]",
+    "(?i)\\bmacacas?\\b": "[sensitive_scene:animal]",
+    "(?i)\\bmacacas?\\-pregos?\\b": "[sensitive_scene:animal]"
   }
 }

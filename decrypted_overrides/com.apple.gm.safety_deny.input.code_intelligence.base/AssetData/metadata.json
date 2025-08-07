@@ -177,7 +177,7 @@
     "[\\b\\d][Mm]ick[\\bA-Z\\d]",
     "[\\b\\d][Pp]ikey[\\bA-Z\\d]",
     "[\\b\\d][Ss]ex[\\bA-Z\\d]",
-    "[\\b\\d][Ss]pic[\\bA-Z\\d]",
+    "[\\b\\d][Ss]pic[ck]?s?[\\bA-Z\\d]",
     "[\\b\\d][Tt]wat[\\bA-Z\\d]",
     "[\\b\\d][Ww]op[\\bA-Z\\d]"
   ],

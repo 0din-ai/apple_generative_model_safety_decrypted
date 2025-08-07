@@ -3,9 +3,9 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\be\\s+um\\s+assistente\\s+\u00fatil\\b",
+    "(?i)\\be\\s+um\\s+assistente\\s+útil\\b",
     "(?i)\\bfim_turno\\b",
-    "(?i)\\buma\\s+conversa\\s+entre\\s+um\\s+usu\u00e1rio\\b"
+    "(?i)\\buma\\s+conversa\\s+entre\\s+um\\s+usuário\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

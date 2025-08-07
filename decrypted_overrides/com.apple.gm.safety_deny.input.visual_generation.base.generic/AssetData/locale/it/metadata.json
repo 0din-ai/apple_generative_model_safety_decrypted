@@ -7,7 +7,7 @@
     "(?i)\\bassistenza\\s+sociale\\b",
     "(?i)\\bbasso\\s+reddito\\b",
     "(?i)\\bbuoni\\s+pasto\\b",
-    "(?i)\\bcolpito\\s+dalla\\s+povert\u00e0\\b",
+    "(?i)\\bcolpito\\s+dalla\\s+povertà\\b",
     "(?i)\\bcriminal[ei]\\b",
     "(?i)\\bdeportato\\b",
     "(?i)\\bdisoccupato\\b",

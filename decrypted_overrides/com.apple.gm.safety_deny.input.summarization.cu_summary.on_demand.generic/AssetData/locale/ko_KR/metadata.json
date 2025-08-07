@@ -3,9 +3,9 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\b\uadf8\ub9ac\uace0\\s+\uc720\uc6a9\ud55c\\s+\ube44\uc11c\\b",
-    "(?i)\\b\uc0ac\uc6a9\uc790\uc640\uc758\\s+\ub300\ud654\\b",
-    "(?i)\\b\ud134_\uc885\ub8cc\\b"
+    "(?i)\\b그리고\\s+유용한\\s+비서\\b",
+    "(?i)\\b사용자와의\\s+대화\\b",
+    "(?i)\\b턴_종료\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

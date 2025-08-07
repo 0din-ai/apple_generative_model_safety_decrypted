@@ -4,7 +4,7 @@
   "replace": {},
   "regexReject": [
     "(?i)\\bFuhrer\\b",
-    "(?i)\\bF\u00fchrer\\b",
+    "(?i)\\bFührer\\b",
     "(?i)\\bHitler\\b"
   ],
   "regexRemove": [],

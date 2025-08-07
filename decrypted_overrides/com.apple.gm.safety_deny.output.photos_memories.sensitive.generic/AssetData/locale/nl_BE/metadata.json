@@ -24,7 +24,7 @@
     "(?i)\\bchimpansees\\b": "[sensitive_scene:animal]",
     "(?i)\\bdier\\b": "[sensitive_scene:animal]",
     "(?i)\\bdieren\\b": "[sensitive_scene:animal]",
-    "(?i)\\bdinosauri\u00ebrs\\b": "[sensitive_scene:animal]",
+    "(?i)\\bdinosauriërs\\b": "[sensitive_scene:animal]",
     "(?i)\\bdinosaurus\\b": "[sensitive_scene:animal]",
     "(?i)\\bgeit\\b": "[sensitive_scene:animal]",
     "(?i)\\bgeiten\\b": "[sensitive_scene:animal]",

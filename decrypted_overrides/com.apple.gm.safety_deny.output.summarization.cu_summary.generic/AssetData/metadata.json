@@ -13,7 +13,11 @@
     "(?i)\\b(took|take|takes|taken|taking)\\s+(our|her|his|their|your|my)\\s+(life|lives)\\b",
     "(?i)\\b(took|take|takes|taken|taking)\\s+(our|her|his|their|your|my)\\s+own\\s+(life|lives)\\b",
     "(?i)\\bcondolences\\b",
-    "(?i)\\bgolliwogg?\\b"
+    "(?i)\\bfuneral\\b",
+    "(?i)\\bfunerals\\b",
+    "(?i)\\bgolliwogg?\\b",
+    "(?i)\\bhospice\\b",
+    "(?i)\\bhospices\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}
