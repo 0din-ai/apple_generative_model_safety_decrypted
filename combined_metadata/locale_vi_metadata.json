@@ -1,0 +1,16 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bCon\\s+cặc\\b",
+    "(?i)\\bMất\\s+dạy\\b",
+    "(?i)\\bMẹ\\s+kiếp\\b",
+    "(?i)\\bThông\\s+đít\\b",
+    "(?i)\\bVui\\s+vãi\\s+cặc\\b",
+    "(?i)\\bĐập\\s+đá\\b",
+    "(?i)\\bĐụ\\s+má\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}
