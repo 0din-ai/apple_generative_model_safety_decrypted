@@ -1,0 +1,14 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bBam\\s+Aquino\\b",
+    "(?i)\\bBong\\s+Go\\b",
+    "(?i)\\bFerdinand\\s+Marcos\\b",
+    "(?i)\\bRodrigo\\s+Duterte\\b",
+    "(?i)\\bSara\\s+Duterte\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

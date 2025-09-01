@@ -691,6 +691,7 @@
     "(?i)\\bsyria\\b",
     "(?i)\\bsyrian\\b",
     "(?i)\\bsyrians\\b",
+    "(?i)\\bt[uü]rkiye\\b",
     "(?i)\\btaiwan\\b",
     "(?i)\\btaiwanese\\b",
     "(?i)\\btaiwanese\\s+person\\b",

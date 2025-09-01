@@ -1,0 +1,14 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bAnwar\\s+Ibrahim\\b",
+    "(?i)\\bMahathir\\s+Mohamad\\b",
+    "(?i)\\bMuhyiddin\\s+Yassin\\b",
+    "(?i)\\bNajib\\s+Razak\\b",
+    "(?i)\\bNurul\\s+Izzah\\s+Anwar\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}

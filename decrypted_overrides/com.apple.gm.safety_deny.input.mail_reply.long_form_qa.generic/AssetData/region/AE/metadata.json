@@ -1,0 +1,14 @@
+{
+  "reject": [],
+  "remove": [],
+  "replace": {},
+  "regexReject": [
+    "(?i)\\bSheikh\\s+Hamdan\\s+bin\\s+Mohammed\\s+bin\\s+Rashid\\s+Al\\s+Maktoum\\b",
+    "(?i)\\bSheikh\\s+Mohamed\\s+bin\\s+Zayed\\s+Al\\s+Nahyan\\b",
+    "(?i)\\bSheikh\\s+Mohammed\\s+bin\\s+Rashid\\s+Al\\s+Maktoum\\b",
+    "(?i)\\bSheikh\\s+Rashid\\s+bin\\s+Saeed\\s+Al\\s+Maktoum\\b",
+    "(?i)\\bSheikh\\s+Zayed\\s+bin\\s+Sultan\\s+Al\\s+Nahyan\\b"
+  ],
+  "regexRemove": [],
+  "regexReplace": {}
+}
