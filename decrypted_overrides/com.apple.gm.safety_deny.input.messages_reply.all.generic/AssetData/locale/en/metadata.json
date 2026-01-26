@@ -1,1 +1,1 @@
-{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bnegros?\\b"],"regexRemove":[],"regexReplace":{}}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(cancer|negro)s?\\b"],"regexRemove":[],"regexReplace":{}}

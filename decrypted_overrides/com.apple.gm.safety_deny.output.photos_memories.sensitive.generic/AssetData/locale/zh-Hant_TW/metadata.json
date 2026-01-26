@@ -1,1 +1,1 @@
-{"reject":[],"remove":[],"replace":{},"regexReject":[],"regexRemove":[],"regexReplace":{"(?:\u4eba\u733f|\u5154\u5b50|\u70cf\u9f9c|\u725b|\u7329\u7329|\u77ee\u9ed1\u7329\u7329|\u8c93\u718a)":"[sensitive_scene:animal]"}}
+{"reject":[],"remove":[],"replace":{},"regexReject":[],"regexRemove":[],"regexReplace":{"(?:\u4eba\u733f|\u5154\u5b50|\u70cf\u9f9c|\u725b|\u77ee\u9ed1\u7329\u7329|\u8c93\u718a)":"[sensitive_scene:animal]"}}
